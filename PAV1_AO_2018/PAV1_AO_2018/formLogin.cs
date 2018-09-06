@@ -16,5 +16,10 @@ namespace PAV1_AO_2018
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
