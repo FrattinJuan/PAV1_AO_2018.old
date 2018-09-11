@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmLogin.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmNuevoPaciente.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmNuevoOdo.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\proyecto_Pav.frmOdontologo.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmPaciente.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.frmPrincipal.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\PAV1_AO_2018.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.exe
+C:\Users\Usuario\Desktop\PROYAECTO_PAV\TPS_InicioSesion\obj\Debug\TPS_InicioSesion.pdb
